@@ -2,6 +2,8 @@
 #include <stdlib.h>
 int main(){
     printf("SCRUM master: ROFI EL MEHDI`\n ");
-    printf("Développeur : Bammou Moussa\n");
+    printf("Développeur 1 : Bammou Moussa\n");
+    printf("Développeur 2 : X Y \n");
+
     
 }
