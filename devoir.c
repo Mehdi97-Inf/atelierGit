@@ -6,6 +6,8 @@ int main(){
     printf("Développeur 2 : X Y \n");
     printf("Développeur 3 : developpeur 3  \n");
     printf("cocoo");
+    printf("cocoo 3");
+
     
     
 
